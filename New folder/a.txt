@@ -1,0 +1,12 @@
+xinga 
+this is a test file 
+
+related to creating a repository in git 
+adding branch in master 
+
+
+making a change in the file 
+kindly make the change 
+
+as  soon as posssible
+
